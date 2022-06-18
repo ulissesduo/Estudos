@@ -1,0 +1,11 @@
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\bin\Debug\Contador de notas.exe.config
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\bin\Debug\Contador de notas.exe
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\bin\Debug\Contador de notas.pdb
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador de notas.csproj.AssemblyReference.cache
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador de notas.csproj.SuggestedBindingRedirects.cache
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador_de_notas.Form1.resources
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador_de_notas.Properties.Resources.resources
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador de notas.csproj.GenerateResource.cache
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador de notas.csproj.CoreCompileInputs.cache
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador de notas.exe
+C:\Users\rltur\source\repos\Contador de notas\Contador de notas\obj\Debug\Contador de notas.pdb

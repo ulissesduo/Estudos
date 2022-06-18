@@ -1,0 +1,11 @@
+C:\Users\rltur\source\repos\CKFah\CKFah\bin\Debug\CKFah.exe.config
+C:\Users\rltur\source\repos\CKFah\CKFah\bin\Debug\CKFah.exe
+C:\Users\rltur\source\repos\CKFah\CKFah\bin\Debug\CKFah.pdb
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.csproj.AssemblyReference.cache
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.csproj.SuggestedBindingRedirects.cache
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.Form1.resources
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.Properties.Resources.resources
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.csproj.GenerateResource.cache
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.csproj.CoreCompileInputs.cache
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.exe
+C:\Users\rltur\source\repos\CKFah\CKFah\obj\Debug\CKFah.pdb
