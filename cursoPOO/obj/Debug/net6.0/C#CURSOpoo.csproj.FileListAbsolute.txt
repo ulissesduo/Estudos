@@ -1,0 +1,15 @@
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\bin\Debug\net6.0\C#CURSOpoo.exe
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\bin\Debug\net6.0\C#CURSOpoo.deps.json
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\bin\Debug\net6.0\C#CURSOpoo.runtimeconfig.json
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\bin\Debug\net6.0\C#CURSOpoo.dll
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\bin\Debug\net6.0\C#CURSOpoo.pdb
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.csproj.AssemblyReference.cache
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.AssemblyInfoInputs.cache
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.AssemblyInfo.cs
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.csproj.CoreCompileInputs.cache
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.dll
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\refint\C#CURSOpoo.dll
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.pdb
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\C#CURSOpoo.genruntimeconfig.cache
+C:\Users\rltur\Desktop\JavaScript\C#CURSO-POO\obj\Debug\net6.0\ref\C#CURSOpoo.dll

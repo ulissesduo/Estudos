@@ -1,0 +1,15 @@
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.csproj.AssemblyReference.cache
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.AssemblyInfoInputs.cache
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.AssemblyInfo.cs
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.csproj.CoreCompileInputs.cache
+C:\Users\rltur\Desktop\JavaScript\C#poo2\bin\Debug\net6.0\C#poo2.exe
+C:\Users\rltur\Desktop\JavaScript\C#poo2\bin\Debug\net6.0\C#poo2.deps.json
+C:\Users\rltur\Desktop\JavaScript\C#poo2\bin\Debug\net6.0\C#poo2.runtimeconfig.json
+C:\Users\rltur\Desktop\JavaScript\C#poo2\bin\Debug\net6.0\C#poo2.dll
+C:\Users\rltur\Desktop\JavaScript\C#poo2\bin\Debug\net6.0\C#poo2.pdb
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.dll
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\refint\C#poo2.dll
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.pdb
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\C#poo2.genruntimeconfig.cache
+C:\Users\rltur\Desktop\JavaScript\C#poo2\obj\Debug\net6.0\ref\C#poo2.dll
